@@ -52,6 +52,7 @@ SELECT
 FROM EarliestEmployees
 WHERE rn <= 2;
 
+
 -- Task 5: Aggregation with Window Functions
 SELECT 
     employee_id,
